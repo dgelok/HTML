@@ -1,0 +1,23 @@
+h1 {
+    background-color: yellow
+
+}
+
+.myHeader {
+    background-color: blue
+}
+
+#myIdRule {
+    background-color: green;
+}
+
+div {
+    font-size: 40px
+}
+
+.innerText {
+
+}
+.text {
+    font-family: 'MuseoModerno', cursive !important;
+}
