@@ -3,6 +3,7 @@ body {
     background-image: url("../images/newCheck.jpg");
     background-repeat: repeat;
     background-size: 200px;
+    font-family: 'Anton', sans-serif;
     }
 
 h1 {
@@ -13,18 +14,17 @@ h1 {
 }
 
 h2 {
-    background-color: lightblue;
+    background-color: skyblue;
     text-align: center;
     margin: 10px 400px 10px 400px;
 }
 
-tr {
-    width: 33%;
-    padding: 5px;
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
-
 .explain {
-    background-color: white;
+    background-color: lightgrey;
     padding: 40px;
     padding-left: 60px;
     padding-right: 60px;
@@ -35,24 +35,18 @@ tr {
 }
 
 .gif {
-
+    padding: 10px;
 }
 
+td.gif {
+    height: 20px;
+}
 .column {
     float: left;
     width: 33%;
     padding: 2px;
 }
 
-#left {
-    float: left;
-}
-
-#right {
-    float: right;
-}
-
 #center {
-    margin-left: auto;
-    margin-right: auto;
+    float: center;
 }
