@@ -47,7 +47,7 @@
     margin-right: auto;
 
 }
-
+ 
 .flexColumn {
     flex-direction: column;
     height: 100%;
@@ -83,4 +83,12 @@
 }
 .flex9 {
     flex: 9;
+}
+
+.nbl {
+    border-left: 0
+}
+
+.nbr {
+    border-right: 0
 }
