@@ -1,0 +1,48 @@
+.logo{
+    width: 100%;
+    display: inline;
+}
+
+.logoPic{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+
+}
+
+.input{
+    width: 100%;
+}
+
+.inputBox{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    width: 200px;
+
+}
+
+.buttons{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+}
+
+.button1{
+    display: block;
+    margin-top: 30px;
+    float: left;
+    background-color: rgb(204, 204, 204);
+}
+
+.button2{
+    display: block;
+    margin-top: 30px;
+    float: right;
+    background-color: rgb(204, 204, 204);
+
+}
+
